@@ -1,4 +1,4 @@
-![Beach Life](https://github.com/powerspectra/powerspectra/IMG_1862.jpeg)
+![Beach Life](https://github.com/powerspectra/powerspectra/IMG_1862.png)
 
 ### 👋 Tim Jackson here
 ## Stay in the present, but keep an eye out for the future.
