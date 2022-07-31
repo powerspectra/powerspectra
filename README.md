@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning ML
 
+https://www.linkedin.com/in/tjjackson3/
+
 <!--
 **powerspectra/powerspectra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
