@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Tim Jackson here
+## Stay in the present, but keep an eye out for the future.
 
 🌱 I’m currently learning ML
 
@@ -9,6 +10,7 @@ https://www.linkedin.com/in/tjjackson3/
 
 Here are some ideas to get you started:
 
+### Hi there 👋
 - 🔭 I’m currently working on ...
 🌱 I’m currently learning Machine Learning,
 - 👯 I’m looking to collaborate on ...
