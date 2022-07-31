@@ -8,7 +8,7 @@
 - ⚡ Hobbies include Light strength training, light jogging, watching SciFi, and working on Leetcode problems.
 
 
-Connect with me on Linkedin:  https://www.linkedin.com/in/tjjackson3/
+On Linkedin, I regulary post coding tips, productivity hints, and professional development tips.  Connect with me at:  https://www.linkedin.com/in/tjjackson3/
 
 <!--
 **powerspectra/powerspectra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
