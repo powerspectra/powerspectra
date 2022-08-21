@@ -3,7 +3,7 @@
 ### 👋 Tim Jackson here
 ## Stay in the present, but keep an eye out for the future.
 
-- 🔭 I'm currently developing code in Python and C++ which will lead to creating a frontend using Javascript.
+- 🔭 I'm currently developing code in Python and C++ which will require me to create a frontend using Javascript.
 - 🌱 On the side, I'm currently learning ML
 - ⚡ Hobbies include Light strength training, light jogging, watching SciFi, and working on Leetcode problems.
 
